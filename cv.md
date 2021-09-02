@@ -1,17 +1,22 @@
 Curriculum vitae
 
-#Alexey Piachko#
+# Alexey Piachko
+---
 
-##Junior Frontend Developer##
+## Junior Frontend Developer
+---
 
-##Contact information:
-Phone: +375 29 856 34 49
-E-mail: alek17y@mail.ru
-Telegram: @polswot
+## Contact information:
+---
 
-##Briefly About Myself:
+1. **Phone:** +375 29 856 34 49
+2. **E-mail:** alek17y@mail.ru
+3. **Telegram:** @polswot
 
-I am interested in web development because I have always wondered what a website is like, its ergonomics and user experience. I always wanted to change a certain block on the website that is out of place.
+## Briefly About Myself:
+---
+
+I am interested in web development because I have always wondered what a websiteis like, its ergonomics and user experience. I always wanted to change a certain block on the website that is out of place.
 
 I am eager to thoroughly study a discipline that is new to me, relying on a huge amount of quality material on the Internet for self-training, as well as the course of the developer community. I am easy to learn and ready to learn new things, and then apply the new knowledge gained in practice, improving the quality of web sites.
 
@@ -21,24 +26,27 @@ Currently working as an automation engineer in the energy sector, I have in-dept
 
 I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
 
-##Skills and Proficiency:
+## Skills and Proficiency:
+---
 
 - HTML5, CSS3
 - Git, GitHub
 - JavaScript Basics (in progress)
 
-##Code example:
+## Code example:
 
 
 
 
-##Courses:
+## Courses:
+---
 
-- HTML and CSS Tutorials on the w3schools (in progress)
-- JavaScript Manual on learnjavascript.ru (in progress)
-- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+- HTML and CSS Tutorials on the [w3schools](https://my-learning.w3schools.com/) (in progress)
+- JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
+- RS Schools [Course «JavaScript/Front-end. Stage 0»](https://github.com/piachkoaliaksey) (in progress)
 
-##Languages:
+## Languages:
+---
 
 - English - Pre-Intermediate
 - Russian - Native
