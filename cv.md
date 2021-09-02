@@ -1,6 +1,5 @@
-Curriculum vitae
 
-# Alexey Piachko
+# Aliaksei Piachko
 ---
 
 ## Junior Frontend Developer
